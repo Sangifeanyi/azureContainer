@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yNQMhvMSgYyoTHor54YyOlotpduK6PsG3UoGzVuCj08=",
+  "Source": "azureContainer",
+  "BasePath": "_content/azureContainer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
